@@ -1,0 +1,59 @@
+.box {
+  margin: 5% auto 0% auto;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+}
+h1{
+  font-size: 4rem;
+}
+h2{
+  font-size: 2rem;
+}
+.soon{
+  font-family: 'Roboto', sans-serif;
+}
+.card{
+  margin: 0% 0% 5% 0%;
+}
+
+.email{
+  border-radius: 30px;
+  padding: 1% 1% 1% 10% ;
+  border-color: grey;
+  color: grey;
+  
+
+}
+
+.btn{
+  border-radius: 30px;
+  padding: 1% 1% 1% 1% ;
+  color: white;
+  background-color: blue;
+  border-color: blue;
+
+}
+.ilustrion{
+  margin: 0 0 5% 0;
+}
+.img{
+  width: 50%;
+  height: auto;
+  padding: 0 25%;
+
+}
+.bottom{
+  text-align: center;
+
+}
+.social{
+  display: flex;
+  margin: 0 45%;
+}
+.margin:hover{
+  color: blue;
+}
+.margin{
+  margin: 0 10% 0 0 ;
+}
